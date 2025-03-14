@@ -43,3 +43,10 @@ git push origin "nombre de la rama"
 //Poder guardar el archivo en la nueva rama
 git merge "nombre de la rama a fusionar" 
 //Poder fusionar ramas
+git init
+//Agregar un nuevo archivo desde Git, siguiendo los pasos de checar status y add
+git remote add origin https://github.com/shellfaram/sistema-de-registro-2.git
+//Copiar el link que salga en GitHub y pegarlo 
+git remote -v 
+git branch -M main
+git push -u origin main
