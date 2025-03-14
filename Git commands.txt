@@ -28,3 +28,8 @@ cd
 // Entrar al directorio
 cd ..
 //Salir del directorio
+git diff 
+//Checar los cambios en mi archivo 
+git restore --source "comando + nombre del archivo"
+//Primero checar el comando "git log --oneline" y tomar el numero que viene y copiarlo, luego ponerlo
+con el comando restore
