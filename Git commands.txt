@@ -1,3 +1,4 @@
+Abrir Visual Studio dentro de GitHub: Presionar el click con el mouse + "."
 git config --global user.name "tu nombre"
 git config --global user.email "email"
 git config --list
