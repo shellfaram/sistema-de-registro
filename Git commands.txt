@@ -33,3 +33,9 @@ git diff
 git restore --source "comando + nombre del archivo"
 //Primero checar el comando "git log --oneline" y tomar el numero que viene y copiarlo, luego ponerlo
 con el comando restore
+git branch
+//Presentar las ramas en nuestro proyecto
+git checkout -b "nombre de la rama"
+//Agregar una nueva rama al poyecto
+git switch "nombre de la rama a cambiar"
+//Cambiar a la anterior rama
