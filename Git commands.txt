@@ -1,0 +1,29 @@
+git config --global user.name "tu nombre"
+git config --global user.email "email"
+git config --list
+/confirmar que pusimos bien el correo y username
+clear
+//Limpiar la pantalla
+git clone "Like del proyecto en GitHub
+//Copiar nuestro proyecto de GitHub a la PC
+git log
+//Checar el historial de los archivos
+git log --oneline
+//Resumen de los updates
+git pull
+//Checar nuevas actualizaciones
+git status 
+//Checar si se hicieron cambios desde Visual Studio en GitHub
+git add *Nombre del archivo y extension* ò git add .
+//Añadir las mas recientes actualizaciones
+git commit -m "Agrega archivo de contacto" 
+//Agregar un commit
+git push
+//Enviar las actualizaciones 
+pwd 
+ls 
+//Enlistar las carpetas
+cd 
+// Entrar al directorio
+cd ..
+//Salir del directorio
