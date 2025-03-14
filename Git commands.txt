@@ -41,3 +41,5 @@ git switch "nombre de la rama a cambiar"
 //Cambiar a la anterior rama
 git push origin "nombre de la rama"
 //Poder guardar el archivo en la nueva rama
+git merge "nombre de la rama a fusionar" 
+//Poder fusionar ramas
